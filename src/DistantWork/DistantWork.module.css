@@ -1,0 +1,17 @@
+.distantWorkBlock{
+    min-height: 30vh;
+    background-color: antiquewhite;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.distantWorkContainer{
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.title{
+    background-color: #e8e8e8;
+}
