@@ -7,7 +7,7 @@ function DistantWork (){
         <div className={style.distantWorkBlock}>
             <div className={`${styleContainer.container} ${style.distantWorkContainer}`}>
                 <h2 className={style.title}>Рассматриваю варианты удаленной работы</h2>
-                <button className={style.button}>Нанять меня</button>
+                <button className={style.button}>Связаться со мной</button>
             </div>
         </div>
     );
