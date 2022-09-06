@@ -4,11 +4,39 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    text-align: center;
+    gap: 10px;
 }
 
-.icon{
-    height: 60px;
-    width: 60px;
+.img{
+    height: 250px;
+    width: 250px;
+    background-color: aqua;
+    /*background-image: url("https://pic.rutubelist.ru/video/eb/f8/ebf8d86ddd388ef643c195927b2be660.jpg");*/
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.projectDescription{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+}
+
+.title{
     background-color: #e8e8e8;
+}
+
+.description{
+    background-color: #e8e8e8;
+}
+
+.button{
+    background-color: darkgray;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 10px 25px;
 }

@@ -12,6 +12,9 @@ function Skills (){
                     <Skill title={'JS'} description={'Подробное описание навыка'}/>
                     <Skill title={'CSS'} description={'Подробное описание навыка'}/>
                     <Skill title={'React'} description={'Подробное описание навыка'}/>
+                    <Skill title={'Redux'} description={'Подробное описание навыка'}/>
+                    <Skill title={'NodeJS'} description={'Подробное описание навыка'}/>
+                    <Skill title={'Git'} description={'Подробное описание навыка'}/>
                 </div>
             </div>
         </div>

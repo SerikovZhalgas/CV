@@ -14,4 +14,12 @@
 
 .title{
     background-color: #e8e8e8;
+    margin: 0 auto;
+}
+
+.button{
+    background-color: #e8e8e8;
+    min-width: 100px;
+    width: 30%;
+    height: 50px;
 }

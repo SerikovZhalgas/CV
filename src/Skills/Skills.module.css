@@ -5,6 +5,7 @@
     flex-direction: row;
     flex-wrap: wrap;
     align-items: center;
+    padding: 50px 0;
 }
 
 .skillsContainer{
@@ -14,6 +15,7 @@
 
 .title{
     background-color: #e8e8e8;
+    margin: 0 auto;
 }
 
 .skills{
@@ -22,4 +24,5 @@
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
+    gap: 50px;
 }

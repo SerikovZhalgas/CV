@@ -10,8 +10,30 @@
 .footerContainer{
     flex-direction: column;
     justify-content: flex-start;
+    gap: 20px;
 }
 
 .title{
+    background-color: #e8e8e8;
+    margin: 0 auto;
+}
+
+.socialNetContainer{
+    min-width: 250px;
+    width: 50%;
+    border: 1px solid;
+    display: flex;
+    justify-content: space-between;
+}
+
+.socialNet{
+    min-width: 40px;
+    min-height: 40px;
+    width: 50px;
+    height: 50px;
+    background-color: #e8e8e8;
+}
+
+.footer2022{
     background-color: #e8e8e8;
 }
